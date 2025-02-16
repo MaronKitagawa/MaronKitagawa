@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MaronKitagawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaronKitagawa&show_icons=true&bg_color=00000000)
+
+
+# MaronKitagawa 👨‍💻
+
+![MaronKitagawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaronKitagawa&show_icons=true&bg_color=00000000)
+
+> **MaronKitagawa**は、あなたのプロジェクトをサポートする、開発者ツールとリソースを提供するオープンソースプロジェクトです。
+
+[![GitHub Actions Status](https://img.shields.io/github/workflow/status/MaronKitagawa/project-name/CI)](https://github.com/MaronKitagawa/project-name/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+
+---
